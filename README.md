@@ -2,7 +2,7 @@
 > Hey! This is my first Python project, built with coffee, logic and a bit of trial and error!
 It's a sleek & clean Python task manager 
 # Features
-It has pretty basic features (since I was just trying to start with GitHub for God's sake) : 
+>It has pretty basic features (since I was just trying to start with GitHub for God's sake) : 
 Add task 
 View tasks 
 Delete task
