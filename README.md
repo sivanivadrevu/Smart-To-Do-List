@@ -11,6 +11,6 @@ If you want to see how it works, run this on your terminal!
 Clone this repo:
 ```bash
 git clone https://github.com/sivanivadrevu/Smart-To-Do-List
-cd Smart-To-Do-List
+cd "Smart-To-Do-List"
 python main.py
 ```
