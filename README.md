@@ -3,10 +3,10 @@
 It's a sleek & clean Python task manager 
 # Features
 >It has pretty basic features (since I was just trying to start with GitHub for God's sake) : 
-Add task 
-View tasks 
-Delete task
-If you want to see how it works, run this on your terminal!
+Add task
+>View tasks
+> Delete task
+>If you want to see how it works, run this on your terminal!
 # Run Me!
 Clone this repo:
 ```bash
